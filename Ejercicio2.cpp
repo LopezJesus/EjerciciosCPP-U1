@@ -20,6 +20,6 @@ int main() {
     
     PGanancia=(Ganar/(Ganar+Perder))*100;
     
-    cout << "El equipo " << Equipo << " Gano " << Ganar << "de los "<< (Ganar + Perder) << " partidos, su porcentaje de triunfo es del" << PGanancia << "% ";
+    cout << "El equipo " << Equipo << " Gano " << Ganar << "de los "<< (Ganar + Perder) << " partidos, su porcentaje de triunfo es del " << PGanancia << "% ";
     return 0;
 }

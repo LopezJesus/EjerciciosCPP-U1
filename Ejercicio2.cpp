@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 //C++ Problemas, problema 2
-//Del libro para Resolver Problemas por computadora: Ejercicio 22 Capitulo 2. Problema de indice de triunfo de equipo de Baseball
+//Del libro para Resolver Problemas por computadora: Ejercicio 23 Capitulo 2. Problema de indice de triunfo de equipo de Baseball
 // Lopez Galaz Jesus Xavier 18212208
 
 int main() {

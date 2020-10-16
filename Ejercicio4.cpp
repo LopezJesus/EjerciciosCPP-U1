@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//C++ Problemas, problema 1
+//C++ Problemas, problema 4
 //Del libro para Resolver Problemas por computadora: Ejercicio 76 Capitulo 3. Area de un poligono regular
 // Lopez Galaz Jesus Xavier 18212208
 
